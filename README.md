@@ -14,17 +14,15 @@
 
 ## About
 
-**CheatA** は、ウォレット・DEX・DeFi・ステーキング・DAppsビルダーをひとつにまとめた Web3 ブラウザです。
-2018年に Ethereum Mainnet 上で作成された **MP** コントラクトを、そのまま直接参照しています。
-
-CheatA is a Web3 hub that brings an MP wallet, DEX, DeFi, staking, and a DApps builder into one browser — built on the original MP contract deployed to Ethereum Mainnet in 2018.
+**CheatA** is a Web3 browser that brings an MP wallet, a DEX, DeFi, staking, and a DApps builder together in one place.
+It reads directly from the original **MP** contract, deployed to Ethereum Mainnet in 2018.
 
 ## Projects
 
 | Project | Description |
 |---|---|
 | [**CheatA Web3 Browser**](https://cheata.io) | MP Wallet / CheatA DEX / DeFi Dashboard / Staking / DApps Builder |
-| **Original MP — Ethereum Archive** | 元 MP コントラクトのオンチェーン証拠アーカイブ（トランザクション、バイトコード、RPC結果、SHA-256） |
+| **Original MP — Ethereum Archive** | On-chain evidence archive for the original MP contract (transactions, bytecode, RPC reads, SHA-256 hashes) |
 
 ## MP on-chain facts
 
@@ -34,7 +32,6 @@ Contract     0x5C5CEa5F9466D8fd9B8D9b3Bd0F4705fc4A7ae74
 Created      Block 5,727,601 · 2018-06-03 22:59:16 UTC
 Token        MP / MP · 8 decimals · 10,000,000,000 supply
 ```
-
 ## Tech stack
 
 <p>
@@ -51,13 +48,13 @@ Token        MP / MP · 8 decimals · 10,000,000,000 supply
 
 ## Principles
 
-- オンチェーンで確認できる事実だけを書く — Verifiable facts only
-- 進捗と制限をオープンにする — Build in public
-- 利用者の資産と秘密情報を守る — Protect users first
+- Verifiable facts only — publish what can be checked on-chain
+- Build in public — share progress and limitations openly
+- Protect users first — assets and secrets come before features
 
 ## Safety
 
-運営が DM で秘密鍵・シードフレーズ・パスワード・送金を求めることはありません。
-公式リンクは [cheata.io](https://cheata.io) とこの GitHub アカウントのものだけを信頼してください。
+The CheatA team will never ask for your private key, seed phrase, password, or a transfer via DM.
+Only trust official links from [cheata.io](https://cheata.io) and this GitHub account.
 
-<sub>このプロフィールは技術・歴史情報の紹介であり、投資助言や価値の保証ではありません。 Not investment advice.</sub>
+<sub>This profile shares technical and historical information. It is not investment advice or a guarantee of value.</sub>
