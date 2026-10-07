@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/avatar.png" alt="CheatA" width="96">
+</p>
+
+<p align="center">
   <a href="https://cheata.io"><img src="./assets/banner.svg" alt="CheatA — Web3 Browser" width="100%"></a>
 </p>
 
