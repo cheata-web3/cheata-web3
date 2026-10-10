@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://cheata.io"><img src="https://img.shields.io/badge/Website-cheata.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://etherscan.io/address/0x5C5CEa5F9466D8fd9B8D9b3Bd0F4705fc4A7ae74"><img src="https://img.shields.io/badge/MP-Ethereum%20Mainnet-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="MP on Ethereum"></a>
+  <a href="mailto:hello@cheata.io"><img src="https://img.shields.io/badge/Email-hello%40cheata.io-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Since-2018-a78bfa?style=for-the-badge" alt="Since 2018">
 </p>
 
@@ -52,9 +53,16 @@ Token        MP / MP · 8 decimals · 10,000,000,000 supply
 - Build in public — share progress and limitations openly
 - Protect users first — assets and secrets come before features
 
+## Contact
+
+| Address | Use |
+|---|---|
+| [hello@cheata.io](mailto:hello@cheata.io) | General inquiries, presale, exchanges, media and partnerships |
+| [dev@cheata.io](mailto:dev@cheata.io) | Development, APIs and security reports |
+
 ## Safety
 
 The CheatA team will never ask for your private key, seed phrase, password, or a transfer via DM.
-Only trust official links from [cheata.io](https://cheata.io) and this GitHub account.
+Only trust official links from [cheata.io](https://cheata.io) and this GitHub account. Official email comes only from `@cheata.io` addresses.
 
 <sub>This profile shares technical and historical information. It is not investment advice or a guarantee of value.</sub>
