@@ -31,7 +31,7 @@ It reads directly from the original **MP** contract, deployed to Ethereum Mainne
 Network      Ethereum Mainnet (Chain ID 1)
 Contract     0x5C5CEa5F9466D8fd9B8D9b3Bd0F4705fc4A7ae74
 Created      Block 5,727,601 · 2018-06-03 22:59:16 UTC
-Token        MP / MP · 8 decimals · 10,000,000,000 supply
+Token        MP / MP · 18 decimals · 10,000,000,000 supply
 ```
 ## Tech stack
 
