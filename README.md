@@ -23,7 +23,7 @@ It reads directly from the original **MP** contract, deployed to Ethereum Mainne
 | Project | Description |
 |---|---|
 | [**CheatA Web3 Browser**](https://cheata.io) | MP Wallet / CheatA DEX / DeFi Dashboard / Staking / DApps Builder |
-| **Original MP — Ethereum Archive** | On-chain evidence archive for the original MP contract (transactions, bytecode, RPC reads, SHA-256 hashes) |
+| [**Original MP — Ethereum Archive**](https://github.com/cheata-web3/original-mp-ethereum-archive) | On-chain evidence archive for the original MP contract (transactions, bytecode, RPC reads, SHA-256 hashes) |
 
 ## MP on-chain facts
 
@@ -31,8 +31,12 @@ It reads directly from the original **MP** contract, deployed to Ethereum Mainne
 Network      Ethereum Mainnet (Chain ID 1)
 Contract     0x5C5CEa5F9466D8fd9B8D9b3Bd0F4705fc4A7ae74
 Created      Block 5,727,601 · 2018-06-03 22:59:16 UTC
-Token        MP / MP · 18 decimals · 10,000,000,000 supply
+Token        MP / MP · 8 decimals · 10,000,000,000 supply
 ```
+
+These are historical contract facts, not proof of the publisher's legal identity
+or original source-code authorship. Creator-wallet signature verification is
+pending; see the [provenance record](https://github.com/cheata-web3/original-mp-ethereum-archive/blob/main/PROVENANCE.md).
 ## Tech stack
 
 <p>
