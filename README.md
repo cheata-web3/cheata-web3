@@ -36,7 +36,9 @@ Token        MP / MP · 8 decimals · 10,000,000,000 supply
 
 These are historical contract facts, not proof of the publisher's legal identity
 or original source-code authorship. Creator-wallet signature verification is
-pending; see the [provenance record](https://github.com/cheata-web3/original-mp-ethereum-archive/blob/main/PROVENANCE.md).
+complete: the published signature recovers the MP creator address
+(see the [provenance record](https://github.com/cheata-web3/original-mp-ethereum-archive/blob/main/PROVENANCE.md)).
+
 ## Tech stack
 
 <p>
